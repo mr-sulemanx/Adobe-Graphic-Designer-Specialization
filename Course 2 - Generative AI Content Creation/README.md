@@ -1,0 +1,2 @@
+# Course 2 - Generative AI Content Creation
+Mastered prompt engineering techniques and ethical AI design workflows using Adobe Firefly to build production-ready digital media assets. Developed hands-on experience creating high-impact visual content, fine-tuning generative prompts for stylistic consistency, and applying text-to-image and generative fill features to streamline overall marketing and design pipelines.
