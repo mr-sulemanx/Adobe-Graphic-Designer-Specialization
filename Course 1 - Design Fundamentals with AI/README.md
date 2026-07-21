@@ -1,2 +1,2 @@
 # Course 1: Design Fundamentals with AI
-This directory contains the completion certificate for Course 1.
+Explored fundamental principles of visual communication, focusing on layout design, grid systems, typography hierarchy, and color theory. Integrated cutting-edge generative AI tools—such as Adobe Express and Adobe Firefly—into the standard creative workflow to rapidly prototype concept sketches, generate mood boards, and accelerate early-stage visual asset creation.
